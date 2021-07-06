@@ -1,0 +1,2 @@
+class GeographicIconCountry < ApplicationRecord
+end
